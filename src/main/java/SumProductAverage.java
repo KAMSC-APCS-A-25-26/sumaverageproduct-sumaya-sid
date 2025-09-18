@@ -21,9 +21,6 @@ public class SumProductAverage {
         // Read in scanning object
         Scanner scan = new Scanner(System.in);
 
-        // Signature
-        System.out.println("Sumaya\nAPCS-A\nLewis 2.2-2.3 Arithmetic Program\n");
-
         // Assign primitive type and initialize variables
         int numRuns = 0;
         double num1, num2, num3, avg, sum, prod;
